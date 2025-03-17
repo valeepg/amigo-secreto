@@ -1,6 +1,6 @@
 :root {
-    --color-primary: #000000;
-    --color-secondary: #f3dede ;
+    --color-primary: hsl(0, 0%, 0%);
+    --color-secondary: #f0e2e2 ;
     --color-tertiary: #f3f3f3;
     --color-button: #00A6A6;
     --color-button-hover: #7a9ff0;
