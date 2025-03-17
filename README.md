@@ -10,7 +10,7 @@ Una aplicación divertida y sencilla para sortear amigos en tu grupo de forma al
 
 ## Vista previa
 
-![Vista previa del juego](./ruta/a/la/imagen.png) <!-- Reemplaza con la ruta real de tu imagen -->
+![Vista previa del juego](assets/pag.JPG) <!-- Reemplaza con la ruta real de tu imagen -->
 
 ## Cómo usar
 
