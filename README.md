@@ -1,4 +1,4 @@
-# 🎁 Amigo Secreto 🎉
+# 🎁 Amigo Secreto 
 
 Una aplicación divertida y sencilla para sortear amigos en tu grupo de forma aleatoria. Ideal para jugar al clásico "Amigo Secreto" o "Amigo Invisible".
 
